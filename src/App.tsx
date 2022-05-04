@@ -2,8 +2,8 @@ import { useState } from 'react'
 import logo from './logo.svg'
 import './App.css'
 // import { Button } from 'vite-project/dist/assets/index.983a54fa';
-import { Button } from 'vite-project';
-import 'vite-project/dist/style.css'
+import { Button } from 'tane-ui-library';
+import 'tane-ui-library/dist/style.css'
 
 function App() {
   const [count, setCount] = useState(0)

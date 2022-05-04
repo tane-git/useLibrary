@@ -321,6 +321,11 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
+"@types/node@^17.0.31":
+  version "17.0.31"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.31.tgz#a5bb84ecfa27eec5e1c802c6bbf8139bdb163a5d"
+  integrity sha512-AR0x5HbXGqkEx9CadRH3EBYx/VkiUgZIhP4wvPn/+5KIsgpNoyFaRlVe0Zlx9gRtg8fA06a9tskE2MSN7TcG4Q==
+
 "@types/prop-types@*":
   version "15.7.5"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
@@ -1252,6 +1257,16 @@ supports-preserve-symlinks-flag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
+
+tane-ui-library@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/tane-ui-library/-/tane-ui-library-0.1.2.tgz#d187cf1b692d4e8452a26bd26261a718dd4df705"
+  integrity sha512-NLYMcayh4HAdn7giZ7KAsfzwxREOoZUcH21viFhf9PX3+xNm9PBJOe8I34Hs0SQGG07rKDPAIfTA4dgR86FlUg==
+  dependencies:
+    "@types/node" "^17.0.31"
+    antd "^4.20.2"
+    react "^18.0.0"
+    react-dom "^18.0.0"
 
 to-fast-properties@^2.0.0:
   version "2.0.0"

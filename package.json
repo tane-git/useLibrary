@@ -10,7 +10,8 @@
   "dependencies": {
     "antd": "^4.20.2",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "tane-ui-library": "^0.1.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
